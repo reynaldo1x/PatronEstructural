@@ -1,0 +1,7 @@
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Adapter\bin\Debug\Adapter.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Adapter\bin\Debug\Adapter.pdb
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Adapter\obj\Debug\Adapter.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Adapter\obj\Debug\Adapter.pdb
