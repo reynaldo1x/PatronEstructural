@@ -1,0 +1,7 @@
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Proxy\bin\Debug\Proxy.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Proxy\bin\Debug\Proxy.pdb
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Proxy\obj\Debug\Proxy.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Proxy\obj\Debug\Proxy.pdb
